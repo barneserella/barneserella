@@ -4,7 +4,7 @@ I'm all about soaking up new knowledge and diving into fresh opportunities and a
 
 Skills: JS / HTML / CSS / MONGODB / EXPRESS 
 
-- 🌱 I’m currently learning React.js 
+- 🌱 I’m currently learning React
 - 🤔 I’m looking for help with expanding and strengthening my professional network. 
 - 💬 Ask me about gardening and plant pest control. 
 - 📫 How to reach me: girlthisismycodingemail@gmail.com 
