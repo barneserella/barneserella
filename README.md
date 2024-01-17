@@ -2,7 +2,7 @@
 #### I'm a Software Developer who's all about Full Stack Web Development. Excited to have you drop by my GitHub profile! Check out the cool projects and contributions that showcase what I'm into and where my skills shine.
 I'm all about soaking up new knowledge and diving into fresh opportunities and activities.
 
-Skills: JS / HTML / CSS
+Skills: JS / HTML / CSS / MONGODB / EXPRESS 
 
 - 🌱 I’m currently learning React.js 
 - 🤔 I’m looking for help with expanding and strengthening my professional network. 
