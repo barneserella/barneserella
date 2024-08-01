@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Tawnya.
-#### I'm a Software Developer who's all about Full Stack Web Development. Excited to have you drop by my GitHub profile! Check out the cool projects and contributions that showcase what I'm into and where my skills shine. I like to make things my kids will like!
+#### I'm a Software Developer who's all about Full Stack Web Development. Excited to have you drop by my GitHub profile! Check out the cool projects and contributions that showcase what I'm into and where my skills shine. I like to make apps that keep my kids busy!
 I'm all about soaking up new knowledge and diving into fresh opportunities and activities.
 
 Skills: JS / HTML / CSS / MONGODB / EXPRESS 
